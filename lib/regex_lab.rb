@@ -1,5 +1,9 @@
 def starts_with_a_vowel?(word)
   if starts_with_a_vowel == true 
+    puts /aeiou/ 
+  else 
+    puts consonant 
+  end 
     
 end
 
